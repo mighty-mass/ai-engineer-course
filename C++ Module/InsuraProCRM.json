@@ -1,0 +1,28 @@
+{
+    "customers": [
+        {
+            "id": 1,
+            "interactions": [],
+            "name": "adasdsa",
+            "surname": "asdasd"
+        },
+        {
+            "id": 2,
+            "interactions": [],
+            "name": "orango",
+            "surname": "giallo"
+        },
+        {
+            "id": 3,
+            "interactions": [],
+            "name": "orango",
+            "surname": "blu"
+        },
+        {
+            "id": 4,
+            "interactions": [],
+            "name": "orango",
+            "surname": "grigio"
+        }
+    ]
+}
