@@ -1,10 +1,10 @@
 {
-    "title": "Master Course - AI Engineer",
-  "description": "Datahub configuration for README as website",
-  "logo": "https://datahub.io/datahub-cube.svg",
+  "title": "Master Course - AI Engineer",
+  "description": "",
+  "logo": "",
   "navbarTitle": {
-    "logo": "https://datahub.io/datahub-cube.svg",
-    "text": "DataHub Cloud Site Template"
+    "logo": "",
+    "text": "Master Course - AI Engineer"
   },
   "author": {
     "name": "Marco Massetti"

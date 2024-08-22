@@ -13,10 +13,3 @@
 - [ ] Machine Learning
 
 
-
-Templates
-
-> [!important]
-> [!warning]
-
-> [!done]
