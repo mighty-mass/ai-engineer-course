@@ -13,3 +13,7 @@
 - [ ] Machine Learning
 
 
+To Do:
+- [ ] Deep Learning
+- [ ] Reinforcement Learning
+- [ ]
