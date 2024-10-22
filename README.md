@@ -3,22 +3,23 @@
 
 11 Modules 
 
-> [!done]
+> [!IMPORTANT]
 > Course + Project
-- [x] Python
-- [x] C++
-- [x] Machine Learning: Fundamentals
+> - [x] Python
+> - [x] C++
+> - [x] Machine Learning: Fundamentals
 
 > [!warning]
 > In Progress
-- [ ] Machine Learning: Models and algorithms
+> Machine Learning: Models and algorithms
 
-Next:
 
-- [ ] Deep Learning e Neural Networks
-- [ ] Applied Deep Learning with PyTorch
-- [ ] Computer Vision
-- [ ] Reinforcement Learning
-- [ ] Generative AI
-- [ ] MLOps e Machine Learning in Production
-- [ ] Explainable AI
+> [!NOTE]  
+> Next:
+> - [ ] Deep Learning e Neural Networks
+> - [ ] Applied Deep Learning with PyTorch
+> - [ ] Computer Vision
+> - [ ] Reinforcement Learning
+> - [ ] Generative AI
+> - [ ] MLOps e Machine Learning in Production
+> - [ ] Explainable AI
