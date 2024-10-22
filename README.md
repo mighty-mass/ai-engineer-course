@@ -5,15 +5,20 @@
 
 > [!done]
 > Course + Project
-- [x] Python Module
-- [x] C++ Module
+- [x] Python
+- [x] C++
+- [x] Machine Learning: Fundamentals
 
 > [!warning]
 > In Progress
-- [ ] Machine Learning
+- [ ] Machine Learning: Models and algorithms
 
+Next:
 
-To Do:
-- [ ] Deep Learning
+- [ ] Deep Learning e Neural Networks
+- [ ] Applied Deep Learning with PyTorch
+- [ ] Computer Vision
 - [ ] Reinforcement Learning
-- [ ]
+- [ ] Generative AI
+- [ ] MLOps e Machine Learning in Production
+- [ ] Explainable AI
